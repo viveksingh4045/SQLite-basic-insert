@@ -13,7 +13,6 @@ Python Version 3.8 or above is required to run this application.
   -- Run command `sqlite3`
   -- Run command '.open my_database.db'
   -- Run command 'select count(*) from MetaData;'
-  -- 
 
 
 ## Features
