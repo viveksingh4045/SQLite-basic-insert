@@ -8,6 +8,12 @@ Python Version 3.8 or above is required to run this application.
 - To run the application - python app.py
 - Application will request parameters from console
 - Supported date format is YYYY-MM-DD
+- To validate that data is inserted in DB, follow below steps
+  -- Open console in your local project location.
+  -- Run command `sqlite3`
+  -- Run command '.open my_database.db'
+  -- Run command 'select count(*) from MetaData;'
+  -- 
 
 
 ## Features
